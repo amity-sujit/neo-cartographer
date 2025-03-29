@@ -1,0 +1,570 @@
+entity,type,value,page_number
+NEW YORK,GPE,NEW YORK,1
+NEW YORK,GPE,NEW YORK,2
+LONDON,GPE,LONDON,2
+London,GPE,London,2
+1817,DATE,1817,3
+1821,DATE,1821,3
+Bavaria,GPE,Bavaria,3
+1911,DATE,1911,3
+1809,DATE,1809,6
+two years ago,DATE,two years ago,6
+Offenbach,GPE,Offenbach,6
+Paris,GPE,Paris,6
+London,GPE,London,6
+Munich,GPE,Munich,6
+Munich,GPE,Munich,6
+weekly,DATE,weekly,6
+Bavaria,GPE,Bavaria,6
+1815,DATE,1815,6
+Bavaria,GPE,Bavaria,6
+the end of 1816,DATE,the end of 1816,6
+1817,DATE,1817,6
+Vienna,GPE,Vienna,6
+Bavaria,GPE,Bavaria,6
+Munich,GPE,Munich,7
+last winter,DATE,last winter,7
+weekly,DATE,weekly,7
+the past winter,DATE,the past winter,8
+many years,DATE,many years,8
+the early years,DATE,the early years,9
+recent years,DATE,recent years,9
+yesterday,DATE,yesterday,9
+Munich,GPE,Munich,10
+Karlsruhe,GPE,Karlsruhe,10
+Stuttgart,GPE,Stuttgart,10
+Berlin,GPE,Berlin,10
+London,GPE,London,10
+Paris,GPE,Paris,10
+Germany,GPE,Germany,10
+five years old,DATE,five years old,10
+Mounicu,GPE,Mounicu,10
+1818,DATE,1818,10
+1796 TO 1800,DATE,1796 TO 1800,11
+Franken,GPE,Franken,11
+Munich,GPE,Munich,11
+"eighteenth
+year (1789",DATE,"eighteenth
+year (1789",11
+Munich,GPE,Munich,12
+eight days,DATE,eight days,12
+1791,DATE,1791,12
+Ingolstadt,GPE,Ingolstadt,12
+Kurfiirst,GPE,Kurfiirst,12
+Augsburg,GPE,Augsburg,12
+two years,DATE,two years,12
+Munich,GPE,Munich,12
+two weeks,DATE,two weeks,12
+1796 TO 1800,DATE,1796 TO 1800,13
+a quarter,DATE,a quarter,13
+"a few
+days",DATE,"a few
+days",14
+1796 TO 1800 5,DATE,1796 TO 1800 5,15
+spring,DATE,spring,16
+some years later,DATE,some years later,16
+1796 TO 1800,DATE,1796 TO 1800,17
+Frankfurt,GPE,Frankfurt,17
+1796,DATE,1796,17
+1799,DATE,1799,17
+1796 TO 1800,DATE,1796 TO 1800,19
+one quarter,DATE,one quarter,19
+Munich,GPE,Munich,19
+only a few weeks,DATE,only a few weeks,19
+six years,DATE,six years,19
+the third day,DATE,the third day,19
+Prague,GPE,Prague,20
+Ingolstadt,GPE,Ingolstadt,20
+Munich,GPE,Munich,20
+1796 TO,DATE,1796 TO,21
+fourteen days,DATE,fourteen days,21
+fourteen days,DATE,fourteen days,21
+Kurfiirst,GPE,Kurfiirst,21
+Cannabich,GPE,Cannabich,22
+two or three weeks,DATE,two or three weeks,22
+1793,DATE,1793,22
+two years,DATE,two years,22
+1796 TO 1800,DATE,1796 TO 1800,23
+"13
+
+weeks",DATE,"13
+
+weeks",23
+nota,GPE,nota,23
+eight days,DATE,eight days,24
+1796 TO 1800,DATE,1796 TO 1800,25
+monthly,DATE,monthly,26
+Kurfiirst,GPE,Kurfiirst,26
+month,DATE,month,26
+monthly,DATE,monthly,26
+1796 TO 1800,DATE,1796 TO 1800,27
+"the last
+year",DATE,"the last
+year",27
+Munich,GPE,Munich,27
+"before July, 1796",DATE,"before July, 1796",28
+1798,DATE,1798,28
+Schul,GPE,Schul,28
+1796 TO 1800,DATE,1796 TO 1800,29
+Schul,GPE,Schul,29
+Schul,GPE,Schul,29
+Vienna,GPE,Vienna,30
+Bavaria,GPE,Bavaria,30
+1796 TO 1800,DATE,1796 TO 1800,31
+"the last
+twenty years",DATE,"the last
+twenty years",31
+the present day,DATE,the present day,31
+Munich,GPE,Munich,32
+Augsburg,GPE,Augsburg,32
+Poussin,GPE,Poussin,32
+Bavaria,GPE,Bavaria,32
+1796 TO 1800,DATE,1796 TO 1800,33
+Schul,GPE,Schul,33
+1796 TO 1800,DATE,1796 TO 1800,35
+1796 TO 1800,DATE,1796 TO 1800,37
+three days,DATE,three days,37
+Stuttgart,GPE,Stuttgart,38
+early as the year 1800,DATE,early as the year 1800,38
+London,GPE,London,38
+1803,DATE,1803,38
+a day,DATE,a day,38
+a year,DATE,a year,38
+two years,DATE,two years,38
+1796 TO 1800 29,DATE,1796 TO 1800 29,39
+fifteen years,DATE,fifteen years,39
+"King Maxi-
+",GPE,"King Maxi-
+",39
+Bavaria,GPE,Bavaria,39
+Schul,GPE,Schul,39
+Bavaria,GPE,Bavaria,39
+a few months,DATE,a few months,40
+1796 TO 1800 31,DATE,1796 TO 1800 31,41
+Bavaria,GPE,Bavaria,41
+Augsburg,GPE,Augsburg,41
+the three months,DATE,the three months,41
+some day,DATE,some day,42
+1813,DATE,1813,42
+Munich,GPE,Munich,42
+Frankfurt,GPE,Frankfurt,42
+fourteen days,DATE,fourteen days,42
+Munich,GPE,Munich,42
+1796 TO 1800,DATE,1796 TO 1800,43
+London,GPE,London,43
+Paris,GPE,Paris,43
+Paris,GPE,Paris,43
+London,GPE,London,43
+Berlin,GPE,Berlin,43
+Vienna,GPE,Vienna,43
+London,GPE,London,43
+Paris,GPE,Paris,43
+Vienna,GPE,Vienna,43
+Munich,GPE,Munich,43
+three years,DATE,three years,43
+Bavaria,GPE,Bavaria,43
+Schul,GPE,Schul,43
+London,GPE,London,44
+England,GPE,England,44
+1796 TO 1800,DATE,1796 TO 1800,45
+England,GPE,England,46
+England,GPE,England,46
+Vienna,GPE,Vienna,46
+a few weeks,DATE,a few weeks,46
+London,GPE,London,46
+Hamburg,GPE,Hamburg,46
+Cuxhafen,GPE,Cuxhafen,46
+Yarmouth,GPE,Yarmouth,46
+six days,DATE,six days,46
+London,GPE,London,46
+London,GPE,London,46
+seven months,DATE,seven months,46
+England,GPE,England,46
+month,DATE,month,46
+England,GPE,England,46
+1796 TO 1800,DATE,1796 TO 1800,47
+twelve days,DATE,twelve days,47
+seven months,DATE,seven months,47
+London,GPE,London,47
+the first twenty,DATE,the first twenty,48
+London,GPE,London,48
+Munich,GPE,Munich,48
+London,GPE,London,48
+England,GPE,England,48
+this day,DATE,this day,48
+Vienna,GPE,Vienna,48
+Vienna,GPE,Vienna,48
+Munich,GPE,Munich,48
+1796 TO 1800,DATE,1796 TO 1800,49
+Vienna,GPE,Vienna,49
+London,GPE,London,49
+Vienna,GPE,Vienna,49
+several months,DATE,several months,49
+Vienna,GPE,Vienna,49
+Vienna,GPE,Vienna,49
+England,GPE,England,49
+Austria,GPE,Austria,49
+Vienna,GPE,Vienna,50
+Vienna,GPE,Vienna,50
+England,GPE,England,50
+England,GPE,England,50
+Vienna,GPE,Vienna,50
+Vienna,GPE,Vienna,50
+Vienna,GPE,Vienna,50
+Vienna,GPE,Vienna,50
+Vienna,GPE,Vienna,50
+1796 TO,DATE,1796 TO,51
+three or four weeks,DATE,three or four weeks,51
+less than a year,DATE,less than a year,51
+seven months,DATE,seven months,51
+England,GPE,England,51
+only the day,DATE,only the day,51
+London,GPE,London,51
+France,GPE,France,51
+Vienna,GPE,Vienna,51
+Vienna,GPE,Vienna,51
+1800 TO 1806,DATE,1800 TO 1806,53
+August,DATE,August,53
+1800,DATE,1800,53
+Vienna,GPE,Vienna,53
+Vienna,GPE,Vienna,53
+Madame Gleissner,GPE,Madame Gleissner,53
+monthly,DATE,monthly,53
+Vienna,GPE,Vienna,53
+Herr Andre’s,GPE,Herr Andre’s,53
+one thousand six hundred,DATE,one thousand six hundred,54
+1800 TO 1806,DATE,1800 TO 1806,55
+London,GPE,London,55
+Vienna,GPE,Vienna,55
+Vienna,GPE,Vienna,55
+Austria,GPE,Austria,56
+next day,DATE,next day,56
+Offenbach,GPE,Offenbach,56
+one and one half million,DATE,one and one half million,56
+Austria,GPE,Austria,56
+Hamburg,GPE,Hamburg,56
+1800 TO 1806,DATE,1800 TO 1806,57
+Vienna,GPE,Vienna,57
+Vienna,GPE,Vienna,58
+Two days,DATE,Two days,58
+1800 TO 1806,DATE,1800 TO 1806,59
+Munich,GPE,Munich,59
+Munich,GPE,Munich,59
+Vienna,GPE,Vienna,60
+Vienna,GPE,Vienna,60
+Vienna,GPE,Vienna,60
+six months,DATE,six months,60
+1800 TO 1806,DATE,1800 TO 1806,61
+Vienna,GPE,Vienna,61
+Vienna,GPE,Vienna,61
+Vienna,GPE,Vienna,61
+some weeks,DATE,some weeks,61
+Vienna,GPE,Vienna,61
+winter,DATE,winter,61
+many weeks,DATE,many weeks,61
+Vienna,GPE,Vienna,61
+a few weeks,DATE,a few weeks,62
+each day,DATE,each day,62
+Munich,GPE,Munich,62
+Vienna,GPE,Vienna,62
+1800 TO 1806,DATE,1800 TO 1806,63
+Vienna,GPE,Vienna,63
+Vienna,GPE,Vienna,63
+half a year,DATE,half a year,63
+Munich,GPE,Munich,63
+the same day,DATE,the same day,63
+Vienna,GPE,Vienna,63
+Herr von Hartl,GPE,Herr von Hartl,64
+1800 TO 1806,DATE,1800 TO 1806,65
+a few days later,DATE,a few days later,65
+New Year’s,EVENT,New Year’s,65
+annually,DATE,annually,65
+the last ten years,DATE,the last ten years,65
+many years,DATE,many years,65
+annual,DATE,annual,65
+ten years,DATE,ten years,65
+a year,DATE,a year,65
+a year,DATE,a year,66
+"a very few
+years",DATE,"a very few
+years",66
+ten years earlier,DATE,ten years earlier,66
+Vienna,GPE,Vienna,66
+Vienna,GPE,Vienna,66
+Munich,GPE,Munich,66
+Augsburg,GPE,Augsburg,66
+1800 TO 1806,DATE,1800 TO 1806,67
+Vienna,GPE,Vienna,67
+Vienna,GPE,Vienna,67
+Petersburg,GPE,Petersburg,67
+Austria,GPE,Austria,67
+Vienna,GPE,Vienna,67
+Helmannséd,GPE,Helmannséd,68
+Munich,GPE,Munich,68
+"three
+days",DATE,"three
+days",68
+1800 TO 1806,DATE,1800 TO 1806,69
+Augsburg,GPE,Augsburg,69
+Regensburg,GPE,Regensburg,69
+Passau,GPE,Passau,69
+Vienna,GPE,Vienna,69
+more a week,DATE,more a week,69
+some weeks,DATE,some weeks,69
+Nearly a whole year,DATE,Nearly a whole year,69
+a whole year,DATE,a whole year,69
+a year,DATE,a year,70
+six months,DATE,six months,70
+England,GPE,England,70
+1800 TO 1806,DATE,1800 TO 1806,71
+England,GPE,England,71
+England,GPE,England,71
+a few days,DATE,a few days,71
+half-past ten o’clock,DATE,half-past ten o’clock,71
+at least eight days,DATE,at least eight days,71
+1803,DATE,1803,72
+Vienna,GPE,Vienna,72
+each month,DATE,each month,72
+the first month,DATE,the first month,72
+two years,DATE,two years,72
+the month,DATE,the month,72
+1800 TO 1806,DATE,1800 TO 1806,73
+month,DATE,month,73
+the end of the second month,DATE,the end of the second month,73
+Helmannséd,GPE,Helmannséd,73
+Vienna,GPE,Vienna,74
+Herr von,GPE,Herr von,74
+quarterly,DATE,quarterly,74
+the first year,DATE,the first year,74
+last the fourth quarter,DATE,last the fourth quarter,74
+Grund,GPE,Grund,74
+1800 TO 1806 65,DATE,1800 TO 1806 65,75
+another year,DATE,another year,75
+Munich,GPE,Munich,75
+Poland,GPE,Poland,75
+the end of the year,DATE,the end of the year,75
+ten years,DATE,ten years,75
+1800 TO 1806 67,DATE,1800 TO 1806 67,77
+a month,DATE,a month,77
+two days,DATE,two days,77
+annual,DATE,annual,77
+annually,DATE,annually,77
+next day,DATE,next day,78
+Vienna,GPE,Vienna,78
+Fourteen days later,DATE,Fourteen days later,78
+St. Polten,GPE,St. Polten,78
+St. Polten,GPE,St. Polten,78
+Vienna,GPE,Vienna,78
+Munich,GPE,Munich,78
+Vienna,GPE,Vienna,78
+Munich,GPE,Munich,78
+1800 TO 1806,DATE,1800 TO 1806,79
+Vienna,GPE,Vienna,79
+Munich,GPE,Munich,79
+Vienna,GPE,Vienna,79
+1804,DATE,1804,79
+Leipsic,GPE,Leipsic,79
+Munich,GPE,Munich,79
+Munich,GPE,Munich,79
+Munich,GPE,Munich,79
+Vienna,GPE,Vienna,79
+later days,DATE,later days,79
+the day,DATE,the day,80
+many months,DATE,many months,80
+a few months,DATE,a few months,80
+Munich,GPE,Munich,80
+St. Polten,GPE,St. Polten,80
+Munich,GPE,Munich,80
+St. Polten,GPE,St. Polten,80
+1806 TO 1817,DATE,1806 TO 1817,81
+Vienna,GPE,Vienna,81
+"October, 1806",DATE,"October, 1806",81
+Wasserburg,GPE,Wasserburg,81
+Bavaria,GPE,Bavaria,81
+Munich,GPE,Munich,81
+Munich,GPE,Munich,81
+a future day,DATE,a future day,81
+Munich,GPE,Munich,82
+Munich,GPE,Munich,82
+Munich,GPE,Munich,82
+some years,DATE,some years,82
+1806 TO 1817,DATE,1806 TO 1817,83
+73,DATE,73,83
+four years,DATE,four years,83
+weeks,DATE,weeks,83
+Neuburg,GPE,Neuburg,84
+Governmental,GPE,Governmental,84
+Bavaria,GPE,Bavaria,84
+Austria,GPE,Austria,84
+the century,DATE,the century,84
+Munich,GPE,Munich,84
+Bavaria,GPE,Bavaria,84
+France,GPE,France,85
+Munich,GPE,Munich,85
+Augsburg,GPE,Augsburg,85
+Bavaria,GPE,Bavaria,85
+Munich,GPE,Munich,85
+two years,DATE,two years,85
+Vienna,GPE,Vienna,85
+Bavaria,GPE,Bavaria,85
+Bavaria,GPE,Bavaria,85
+Bavaria,GPE,Bavaria,86
+Vienna,GPE,Vienna,86
+England,GPE,England,86
+Austria,GPE,Austria,86
+several months,DATE,several months,86
+Munich,GPE,Munich,86
+Munich,GPE,Munich,86
+only two months,DATE,only two months,86
+St. Polten,GPE,St. Polten,86
+1806 TO 1817,DATE,1806 TO 1817,87
+Munich,GPE,Munich,87
+1805,DATE,1805,87
+1806,DATE,1806,87
+Aretin,GPE,Aretin,87
+Munich,GPE,Munich,87
+Montgelas,GPE,Montgelas,88
+the year 1810,DATE,the year 1810,88
+1806 TO 1817,DATE,1806 TO 1817,89
+79,DATE,79,89
+Ba-,GPE,Ba-,89
+the year 1799,DATE,the year 1799,89
+1809,DATE,1809,89
+Munich,GPE,Munich,89
+1796,DATE,1796,90
+Rome,GPE,Rome,90
+Aretin,GPE,Aretin,90
+Munich,GPE,Munich,90
+Herr,GPE,Herr,90
+Winter,DATE,Winter,90
+the Kingdom of Bavaria,GPE,the Kingdom of Bavaria,90
+Munich,GPE,Munich,90
+1806 TO 1817,DATE,1806 TO 1817,91
+1806 TO 1817,DATE,1806 TO 1817,93
+"October, 1809",DATE,"October, 1809",93
+1809,DATE,1809,93
+Munich,GPE,Munich,93
+"January, 1810",DATE,"January, 1810",93
+a month,DATE,a month,93
+four years,DATE,four years,94
+some months,DATE,some months,94
+several weeks,DATE,several weeks,94
+every day,DATE,every day,94
+a year earlier,DATE,a year earlier,94
+1806 TO 1817 85,DATE,1806 TO 1817 85,95
+daily,DATE,daily,95
+Munich,GPE,Munich,95
+1811,DATE,1811,95
+some months later,DATE,some months later,95
+Munich,GPE,Munich,95
+two years,DATE,two years,95
+Providence,GPE,Providence,95
+1816,DATE,1816,95
+Munich,GPE,Munich,95
+Munich,GPE,Munich,95
+Vienna,GPE,Vienna,95
+Vienna,GPE,Vienna,95
+only three months,DATE,only three months,96
+Munich,GPE,Munich,96
+Vienna,GPE,Vienna,96
+Munich,GPE,Munich,96
+Vienna,GPE,Vienna,96
+1816-17,DATE,1816-17,96
+ita year ago,DATE,ita year ago,96
+Gerold,GPE,Gerold,96
+Vienna,GPE,Vienna,96
+Herr Gerold’s,GPE,Herr Gerold’s,96
+1806 TO 1817,DATE,1806 TO 1817,97
+87,DATE,87,97
+Vienna,GPE,Vienna,97
+Munich,GPE,Munich,97
+twenty or thirty years,DATE,twenty or thirty years,97
+1806 TO 1817,DATE,1806 TO 1817,99
+1809,DATE,1809,99
+daily,DATE,daily,99
+a few years,DATE,a few years,99
+1817,DATE,1817,100
+Munich,GPE,Munich,100
+the past four years,DATE,the past four years,100
+1806 TO 1817,DATE,1806 TO 1817,101
+a number of years,DATE,a number of years,101
+France,GPE,France,102
+England,GPE,England,102
+latter days,DATE,latter days,102
+Paris,GPE,Paris,102
+London,GPE,London,102
+Berlin,GPE,Berlin,102
+Petersburg,GPE,Petersburg,102
+"some
+years",DATE,"some
+years",102
+Philadelphia,GPE,Philadelphia,102
+Intaglio,GPE,Intaglio,104
+INTAGLIO,GPE,INTAGLIO,104
+Intaglio,GPE,Intaglio,104
+Intaglio,GPE,Intaglio,104
+intaglio,GPE,intaglio,104
+Bavaria,GPE,Bavaria,108
+Herr Bartolozzi,GPE,Herr Bartolozzi,109
+Vienna,GPE,Vienna,109
+Munich,GPE,Munich,111
+Dietfurt,GPE,Dietfurt,111
+Pappenheim,GPE,Pappenheim,111
+Mann-,GPE,Mann-,111
+heim,GPE,heim,111
+Neuberg,GPE,Neuberg,111
+centuries,DATE,centuries,111
+France,GPE,France,112
+Italy,GPE,Italy,112
+England,GPE,England,112
+Prussia,GPE,Prussia,112
+Berlin,GPE,Berlin,118
+winter,DATE,winter,118
+several days,DATE,several days,119
+1173,DATE,1173,123
+China,GPE,China,123
+"a very
+few days",DATE,"a very
+few days",124
+years,DATE,years,124
+a whole day,DATE,a whole day,125
+the previous day,DATE,the previous day,125
+years,DATE,years,125
+years,DATE,years,126
+some days,DATE,some days,127
+a year,DATE,a year,131
+each day,DATE,each day,138
+1330,DATE,1330,140
+some years,DATE,some years,142
+"a
+few days",DATE,"a
+few days",145
+a few days,DATE,a few days,145
+manipulatton,GPE,manipulatton,147
+the spring,DATE,the spring,148
+1440,DATE,1440,150
+Munich,GPE,Munich,151
+Munich,GPE,Munich,152
+Munich,GPE,Munich,152
+a few days,DATE,a few days,156
+Holland,GPE,Holland,159
+Munich,GPE,Munich,163
+Bavaria,GPE,Bavaria,163
+Munich,GPE,Munich,169
+Vienna,GPE,Vienna,170
+Karlsruhe,GPE,Karlsruhe,170
+London,GPE,London,170
+Munich,GPE,Munich,170
+a day,DATE,a day,170
+The spring,DATE,The spring,174
+Vienna,GPE,Vienna,175
+Intaglio,GPE,Intaglio,176
+daily,DATE,daily,176
+Karlsruhe,GPE,Karlsruhe,177
+a few days,DATE,a few days,177
+years,DATE,years,179
+another day,DATE,another day,184
+fresh day,DATE,fresh day,187
+a day,DATE,a day,189
+years,DATE,years,189
+noonday,DATE,noonday,190
